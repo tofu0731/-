@@ -1,0 +1,51 @@
+.title{
+  color: red;
+
+}
+/* .php{
+
+} */
+
+.aiueo{
+  border-bottom: medium solid #000000;
+}
+
+.hosoi{
+  font-size: 2px;
+  /*color: #bdc6b7;*/
+  color: #646464;
+  text-align:right;
+  margin-right: 300px;
+}
+
+.side{
+  background-color: #F6F6F6;
+  margin-bottom: 500px;
+  padding-bottom: 500px;
+
+}
+
+.overall{
+  display: flex;
+}
+
+.bar{
+  display: inline;
+
+}
+.hot{
+  display: block;
+  margin-right: 100px;
+}
+
+*{
+  font-weight: lighter;
+}
+
+.sky{
+  background-color: #e6f0f0;
+}
+
+a{
+  text-decoration: none;
+}
